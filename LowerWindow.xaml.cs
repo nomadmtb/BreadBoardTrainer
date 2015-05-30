@@ -9,31 +9,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace BreadBoardTrainer
 {
     /// <summary>
-    /// Interaction logic for Page1.xaml
+    /// Interaction logic for LowerWindow.xaml
     /// </summary>
-    public partial class LaunchPage : Page
+    public partial class LowerWindow : Window
     {
-        
-        public LaunchPage()
+        public LowerWindow()
         {
             InitializeComponent();
         }
-
-        private void button_Click(object sender, RoutedEventArgs e)
-        {
-            // ...
-        }
-
-        private void button_Click_1(object sender, RoutedEventArgs e)
-        {
-            // ...
-        }
-
     }
 }

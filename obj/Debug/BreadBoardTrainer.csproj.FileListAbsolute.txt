@@ -13,3 +13,7 @@ C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\BreadBo
 C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\BreadBoardTrainer.pdb
 C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\Pages\LaunchPage.g.cs
 C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\Pages\LaunchPage.baml
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\Pages\LaunchPageLower.g.cs
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\LowerWindow.g.cs
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\Pages\LaunchPageLower.baml
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\LowerWindow.baml

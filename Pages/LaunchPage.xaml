@@ -23,11 +23,5 @@
                 <ImageBrush ImageSource="/BreadBoardTrainer;component/Images/hub_forward_arrow_bright.png"/>
             </Button.Background>
         </Button>
-        <Image x:Name="image1" Height="124" Canvas.Left="636" Canvas.Top="440" Width="126" Source="/BreadBoardTrainer;component/Images/circuit5.png"/>
-        <Canvas Height="192" Canvas.Left="615" Canvas.Top="422" Width="527">
-            <Canvas.Background>
-                <ImageBrush/>
-            </Canvas.Background>
-        </Canvas>
     </Canvas>
 </Page>

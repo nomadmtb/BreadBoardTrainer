@@ -12,28 +12,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace BreadBoardTrainer
+namespace BreadBoardTrainer.Pages
 {
     /// <summary>
-    /// Interaction logic for Page1.xaml
+    /// Interaction logic for LaunchPageLower.xaml
     /// </summary>
-    public partial class LaunchPage : Page
+    public partial class LaunchPageLower : Page
     {
-        
-        public LaunchPage()
+        public LaunchPageLower()
         {
             InitializeComponent();
         }
-
-        private void button_Click(object sender, RoutedEventArgs e)
-        {
-            // ...
-        }
-
-        private void button_Click_1(object sender, RoutedEventArgs e)
-        {
-            // ...
-        }
-
     }
 }
