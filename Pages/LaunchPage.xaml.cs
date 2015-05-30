@@ -24,12 +24,12 @@ namespace BreadBoardTrainer
             InitializeComponent();
         }
 
-        private void pushButton_Click(object sender, RoutedEventArgs e)
+        private void button_Click(object sender, RoutedEventArgs e)
         {
-            this.pushButton.Visibility = Visibility.Hidden;
+
         }
 
-        private void button_Click(object sender, RoutedEventArgs e)
+        private void button_Click_1(object sender, RoutedEventArgs e)
         {
 
         }

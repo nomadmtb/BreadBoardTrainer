@@ -13,6 +13,21 @@
                 <ImageBrush ImageSource="/BreadBoardTrainer;component/Images/hub_logo.png"/>
             </Image.OpacityMask>
         </Image>
-        <Button x:Name="pushButton" Content="PUSH ME" Canvas.Left="0" Canvas.Top="0" Width="76" HorizontalAlignment="Center" VerticalAlignment="Center" Height="21"/>
+        <Button x:Name="back_button" Content="" Width="80" Height="80" Click="button_Click_1" Canvas.Top="650" Canvas.Left="50" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="/BreadBoardTrainer;component/Images/hub_back_arrow_bright.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="button" Content="" Canvas.Left="1774" Canvas.Top="650" Width="80" Height="80" BorderBrush="{x:Null}" RenderTransformOrigin="0.562,1.381">
+            <Button.Background>
+                <ImageBrush ImageSource="/BreadBoardTrainer;component/Images/hub_forward_arrow_bright.png"/>
+            </Button.Background>
+        </Button>
+        <Image x:Name="image1" Height="124" Canvas.Left="636" Canvas.Top="440" Width="126" Source="/BreadBoardTrainer;component/Images/circuit5.png"/>
+        <Canvas Height="192" Canvas.Left="615" Canvas.Top="422" Width="527">
+            <Canvas.Background>
+                <ImageBrush/>
+            </Canvas.Background>
+        </Canvas>
     </Canvas>
 </Page>
