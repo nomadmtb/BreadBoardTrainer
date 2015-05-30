@@ -1,0 +1,15 @@
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\bin\Debug\BreadBoardTrainer.exe
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\bin\Debug\BreadBoardTrainer.pdb
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\BreadBoardTrainer.csprojResolveAssemblyReference.cache
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\MainWindow.g.cs
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\App.g.cs
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\BreadBoardTrainer_MarkupCompile.cache
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\BreadBoardTrainer_MarkupCompile.lref
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\MainWindow.baml
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\BreadBoardTrainer.g.resources
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\BreadBoardTrainer.Properties.Resources.resources
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\BreadBoardTrainer.csproj.GenerateResource.Cache
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\BreadBoardTrainer.exe
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\BreadBoardTrainer.pdb
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\Pages\LaunchPage.g.cs
+C:\Users\HP Sprout\Desktop\BreadBoardTrainer\BreadBoardTrainer\obj\Debug\Pages\LaunchPage.baml
